@@ -1,6 +1,9 @@
-# snapchat_app
+# Flutter SnapChat Ui
 
-A new Flutter project.
+
+https://user-images.githubusercontent.com/87581799/164970994-0a2c4787-7a19-433a-bede-29865d83aa39.mp4
+
+
 
 ## Getting Started
 
